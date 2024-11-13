@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\HandsOn2\bin\Debug\net8.0\HandsOn2.exe
+C:\Users\ASUS\source\repos\HandsOn2\bin\Debug\net8.0\HandsOn2.deps.json
+C:\Users\ASUS\source\repos\HandsOn2\bin\Debug\net8.0\HandsOn2.runtimeconfig.json
+C:\Users\ASUS\source\repos\HandsOn2\bin\Debug\net8.0\HandsOn2.dll
+C:\Users\ASUS\source\repos\HandsOn2\bin\Debug\net8.0\HandsOn2.pdb
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.dll
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\refint\HandsOn2.dll
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.pdb
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\HandsOn2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HandsOn2\obj\Debug\net8.0\ref\HandsOn2.dll
